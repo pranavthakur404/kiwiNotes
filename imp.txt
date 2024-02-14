@@ -1,0 +1,1 @@
+supabaseDatabase=gaPwiQdMYXUJf0pB
